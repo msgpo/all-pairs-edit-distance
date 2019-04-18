@@ -1,6 +1,6 @@
 /* main.c
  *
- * Copyright 2019 Giovanni Campagna
+ * Copyright 2019 The Board of Trustees of the Leland Stanford Junior University
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -14,6 +14,8 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ *
+ * Author: Giovanni Campagna <gcampagn@cs.stanford.edu>
  */
 
 #include "all-pairs-edit-distance-config.h"
