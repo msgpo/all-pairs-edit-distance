@@ -11,7 +11,7 @@ configure_file(
   configuration: config_h,
 )
 add_project_arguments([
-  '--std=c++17',
+  '-std=c++17',
   '-I' + meson.build_root(),
 ], language: 'cpp')
 
