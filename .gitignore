@@ -1,0 +1,4 @@
+.buildconfig
+_build/
+*.py
+*.tsv
